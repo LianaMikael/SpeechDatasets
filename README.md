@@ -6,7 +6,9 @@ A collection of large publically available speech datasets for biometric speaker
 
 * [VoxMovies](https://www.robots.ox.ac.uk/~vgg/data/voxmovies/) - audio dataset with 856 speakers from the VoxCeleb dataset with varying emotion,accents and noise.  
 
-* [VCTK](https://datashare.ed.ac.uk/handle/10283/3443) - audio dataset consisting of 110 speakers with different accents reading the same sentences.    
+* [VCTK](https://datashare.ed.ac.uk/handle/10283/3443) - 48kHz audio dataset consisting of 110 speakers with different accents reading the same 400 sentences.    
 
 * [LibriSpeech](http://www.openslr.org/12) - 1000 hours of 16kHz audio data, contains both clean and noisy examples. 
+
+* [TIMIT](https://www.kaggle.com/mfekadu/darpa-timit-acousticphonetic-continuous-speech) - 16kHz audio data of 630 speakers, each reading 10 identical sentences.   
 
