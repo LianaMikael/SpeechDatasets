@@ -14,3 +14,4 @@ A collection of large publically available speech datasets for biometric speaker
 
 * [TIMIT](https://www.kaggle.com/mfekadu/darpa-timit-acousticphonetic-continuous-speech) - 16kHz audio data of 630 speakers, each reading 10 identical sentences.   
 
+* [M-AILABS](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) - 16kHz audio data in 8 languages, contains speaker idenities and genders constructed from audiobooks.
