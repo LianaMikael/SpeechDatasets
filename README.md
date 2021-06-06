@@ -15,3 +15,5 @@ A collection of large publically available speech datasets for biometric speaker
 * [TIMIT](https://www.kaggle.com/mfekadu/darpa-timit-acousticphonetic-continuous-speech) - 16kHz audio data of 630 speakers, each reading 10 identical sentences.   
 
 * [M-AILABS](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) - 16kHz audio data in 8 languages, contains speaker idenities and genders constructed from audiobooks.
+
+* [DCASE](http://dcase.community/challenge2017/index) - a collection of background sounds that usually occur on the street, in a transport, in an office or at home, such as baby crying, car breaking, people walking, alarms, screams etc. Can be used to train models robust to real-environment background noises. 
