@@ -10,7 +10,9 @@ A collection of large publically available speech datasets for biometric speaker
 
 * [LibriSpeech](http://www.openslr.org/12) - 1000 hours of 16kHz audio data, contains both clean and noisy examples. 
 
-* [LibrAdapt](https://github.com/akhilmathurs/libriadapt) - dataset constructed from LibriSpeech with demain shifts due to different microphones, speaker accents and acoustic environments. 
+* [LibriAdapt](https://github.com/akhilmathurs/libriadapt) - dataset constructed from LibriSpeech with demain shifts due to different microphones, speaker accents and acoustic environments. 
+
+* [LibriTTS](https://openslr.org/60/) - dataset constructed from LibriSpeech more suited for speech synthesis, consists of 585 hours of English speech, 24kHz sampling rate, utterances separated when sentences end.
 
 * [TIMIT](https://www.kaggle.com/mfekadu/darpa-timit-acousticphonetic-continuous-speech) - 16kHz audio data of 630 speakers, each reading 10 identical sentences.   
 
